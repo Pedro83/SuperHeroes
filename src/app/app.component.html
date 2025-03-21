@@ -1,14 +1,11 @@
 <main>
-    <header class="web-name">
-        <img src="./assets/images/header/superherologo.png" alt="Título de la web Super Hero" class="header-img">
+    <header class="web-header">
+        <img src="./assets/images/header/superherologo.png" alt="Título de la web Super Hero" class="web-header__image">
     </header>
-    <section class="searchbar">
-        <form>
-            <input type="text" placeholder="Busca un héroe">
-            <button class="search_button" type="button">Buscar</button>
-        </form>
+    <section class="s-searchbar">
+        <app-search></app-search>
     </section>
-    <section class="content">
+    <section class="s-content">
         <app-home></app-home>
     </section>
 </main>
