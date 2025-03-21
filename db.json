@@ -1,0 +1,156 @@
+{
+    "heroes": [
+        {
+            "id": 1,
+            "nombre": "Batman",
+            "superpoder": "Intelecto de nivel genio, habilidades de combate",
+            "ciudad": "Gotham City",
+            "descripcion": "Un vigilante enmascarado que lucha contra el crimen utilizando su intelecto, tecnología y habilidades físicas.",
+            "imagen": "public/assets/images/heroes/batman.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Spider-Man",
+            "superpoder": "Sentido arácnido, agilidad sobrehumana, trepa muros",
+            "ciudad": "Nueva York",
+            "descripcion": "Un joven con habilidades arácnidas que protege a los inocentes mientras equilibra su vida personal.",
+            "imagen": "public/assets/images/heroes/spiderman.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Wonder Woman",
+            "superpoder": "Fuerza sobrehumana, velocidad, resistencia, vuelo",
+            "ciudad": "Themyscira",
+            "descripcion": "Princesa amazona con poderes divinos que lucha por la justicia y la paz.",
+            "imagen": "public/assets/images/heroes/wonderwoman.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Hulk",
+            "superpoder": "Fuerza y resistencia ilimitadas",
+            "ciudad": "Desconocida",
+            "descripcion": "Un científico que, tras una exposición a radiación gamma, se convierte en una bestia de fuerza inigualable.",
+            "imagen": "public/assets/images/heroes/hulk.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Capitana Marvel",
+            "superpoder": "Vuelo, fuerza cósmica, energía fotónica",
+            "ciudad": "Desconocida",
+            "descripcion": "Una ex-piloto de la Fuerza Aérea con poderes cósmicos que protege el universo.",
+            "imagen": "public/assets/images/heroes/marvel.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Gamora",
+            "superpoder": "Habilidad de combate, fuerza mejorada",
+            "ciudad": "Desconocida",
+            "descripcion": "La mujer más peligrosa de la galaxia, experta en combate cuerpo a cuerpo y armas.",
+            "imagen": "public/assets/images/heroes/gamora.png"
+        },
+        {
+            "id": 7,
+            "nombre": "Iron Man",
+            "superpoder": "Armadura de alta tecnología, intelecto superior",
+            "ciudad": "Nueva York",
+            "descripcion": "Un multimillonario genio que usa su avanzada armadura para proteger al mundo.",
+            "imagen": "public/assets/images/heroes/ironman.png"
+        },
+        {
+            "id": 8,
+            "nombre": "Viuda Negra",
+            "superpoder": "Espionaje, combate cuerpo a cuerpo",
+            "ciudad": "Desconocida",
+            "descripcion": "Una espía de élite con habilidades en combate y tácticas de infiltración.",
+            "imagen": "public/assets/images/heroes/viudanegra.png"
+        },
+        {
+            "id": 9,
+            "nombre": "Zatanna",
+            "superpoder": "Magia",
+            "ciudad": "Desconocida",
+            "descripcion": "Una poderosa hechicera y artista que combate el mal con su magia.",
+            "imagen": "https://example.com/zatanna.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Stargirl",
+            "superpoder": "Control de energía cósmica",
+            "ciudad": "Blue Valley",
+            "descripcion": "Una heroína con un bastón cósmico que le otorga poderes extraordinarios.",
+            "imagen": "https://example.com/stargirl.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Constantine",
+            "superpoder": "Hechicería, conocimiento ocultista",
+            "ciudad": "Londres",
+            "descripcion": "Un detective ocultista y exorcista que lucha contra entidades sobrenaturales.",
+            "imagen": "https://example.com/constantine.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "Superman",
+            "superpoder": "Vuelo, fuerza sobrehumana, visión de calor",
+            "ciudad": "Metrópolis",
+            "descripcion": "El último hijo de Krypton, un símbolo de esperanza con habilidades extraordinarias.",
+            "imagen": "https://example.com/superman.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Capucha Roja",
+            "superpoder": "Habilidad de combate, estrategia",
+            "ciudad": "Gotham City",
+            "descripcion": "Un justiciero con métodos letales que busca venganza contra el crimen.",
+            "imagen": "https://example.com/redhood.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "Robin",
+            "superpoder": "Acrobacia, combate cuerpo a cuerpo",
+            "ciudad": "Gotham City",
+            "descripcion": "El compañero de Batman, entrenado en combate y estrategia.",
+            "imagen": "https://example.com/robin.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "Red Robin",
+            "superpoder": "Intelecto estratégico, artes marciales",
+            "ciudad": "Gotham City",
+            "descripcion": "Un detective brillante y estratega que protege Gotham con astucia.",
+            "imagen": "https://example.com/redrobin.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Nightwing",
+            "superpoder": "Acrobacia, combate avanzado",
+            "ciudad": "Blüdhaven",
+            "descripcion": "El primer Robin convertido en un héroe independiente.",
+            "imagen": "https://example.com/nightwing.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "Batgirl",
+            "superpoder": "Habilidades de combate, intelecto",
+            "ciudad": "Gotham City",
+            "descripcion": "Una heroína con entrenamiento en artes marciales y una mente brillante.",
+            "imagen": "https://example.com/batgirl.jpg"
+        },
+        {
+            "id": 18,
+            "nombre": "Spoiler",
+            "superpoder": "Estrategia, combate",
+            "ciudad": "Gotham City",
+            "descripcion": "Una heroína autodidacta con un fuerte sentido de justicia.",
+            "imagen": "https://example.com/spoiler.jpg"
+        },
+        {
+            "id": 19,
+            "nombre": "Doctor Extraño",
+            "superpoder": "Magia, manipulación del tiempo",
+            "ciudad": "Nueva York",
+            "descripcion": "El Hechicero Supremo que protege la realidad de amenazas mágicas.",
+            "imagen": "https://example.com/doctorstrange.jpg"
+        }
+    ]
+}
